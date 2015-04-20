@@ -15,7 +15,7 @@ How it works
 
 We send the Serial information from an NES Controller to an Intel Galileo Board. The Intel Galileo Board transmits the information via HTTP Requests to our online Web Server. A Raspberry Pi sends HTTP Requests to our Web Server in order to get the information about the NES Controller command. The Raspberry Pi processes the data in Python and sends commands to an Arduino Uno. The Arduino Uno that is hooked up to the Raspberry Pi receives data from the Pi and sends over the signals to control the CutieBot motors and camera.
 
-![alt tag](https://raw.github.com/anava014/CutieBot/master/Map.png)
+![alt tag](http://i.imgur.com/3eBDLyr.jpg)
 
 Built With
 
