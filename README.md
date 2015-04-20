@@ -1,6 +1,10 @@
 # CutieBot
 Control CutieBot and take pictures via an NES Controller from anywhere in the world!
 
+Developers:
+Andrew Nava-Juarez anava014@ucr.edu
+Rachel Law rlaw001@ucr.edu
+
 CutieBot Moving: https://www.youtube.com/watch?v=7OSnLsGKe2U&feature=youtu.be CutieBot Vision: https://www.youtube.com/watch?v=d_xMnEGmxv8&feature=youtu.be
 
 Inspiration
