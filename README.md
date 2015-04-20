@@ -7,6 +7,7 @@ Developers:
 Andrew Nava-Juarez anava014@ucr.edu
 Rachel Law rlaw001@ucr.edu
 
+CutieBot Demo: https://youtu.be/KvKyiC43o8s
 CutieBot Moving: https://www.youtube.com/watch?v=7OSnLsGKe2U&feature=youtu.be CutieBot Vision: https://www.youtube.com/watch?v=d_xMnEGmxv8&feature=youtu.be
 
 Inspiration
